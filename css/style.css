@@ -1,0 +1,83 @@
+@font-face{
+	font-family: 'CHANTELLI ANTIQUA';
+	src:url(../fonts/Chantelli_Antiqua-webfont.woff) format('woff'),
+	    url(../fonts/Chantelli_Antiqua-webfont.ttf) format('truetype');
+}
+
+h2{
+	font-size: 24px;
+	font-family: 'CHANTELLI ANTIQUA';
+	 
+}
+
+p{
+	font-weight: 300;
+	font-size: 20px;
+	font-style: italic;
+	text-decoration: none;
+	text-transform: lowercase;
+	letter-spacing: normal;
+	word-spacing: normal;
+	line-height: 1px;
+	/*color: Blue;*/
+}
+
+/*h2{
+	font-size: 20px;
+	color: rgb(145,166,40);
+}
+
+h3{
+font-size: 20px;
+color: #9B2BC8;
+}
+
+
+ul{
+ list-style-type: square;
+}
+
+ol{
+	list-style-type: upper-alpha;
+}
+
+li{
+	color: green;
+}*/
+
+ /*body a {
+ 	background: rgba(255,255,0,.5);
+ }
+ */
+/*li>a {
+ 	background: rgba(255,255,0,.5);
+ }
+
+div>a {
+ 	background: rgba(255,255,0,.5);
+ }*/
+
+/*ul li a{
+	background: rgba(255,0,255,.5);
+}
+
+h1~p{
+	background: rgba(255,0,255,.8);
+}*/
+
+/**{
+	background: rgba(125,110,201,.8);
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
